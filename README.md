@@ -36,7 +36,7 @@
 - 🧠 **AI + MERN Developer** | OpenCV, BERT, LLM Agents  
 - 🥇 **Winner – CYKRYPT’25 National-Level Tech Event** (Paper Presentation)  
 - 👑 **President – ACE’25**, led **300+ student community** and organized hackathons  
-- ✍️ Built a tech brand with **2900+ LinkedIn followers** and **70+ posts**  
+- ✍️ Built a tech brand with **2900+ LinkedIn followers** and **70+ posts** at Linkedin
 - 🚀 Top **5% performer** in NxtWave grading challenges  
 - 🌱 Currently learning: **Next.js 14, TypeScript, System Design, AI Agents**
 
