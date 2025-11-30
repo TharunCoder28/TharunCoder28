@@ -64,33 +64,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" />
 </p>
 
-
----
-
-# 🚀 Featured Projects 
-
-## 🎯 SkillTrack – Course Progress Tracker  
-**Tech:** React.js, Bootstrap, Node.js, Express.js, MongoDB  
-- 📊 Dashboard for weekly hours, streaks & insights (Recharts)  
-- 🔐 JWT auth + secure REST APIs  
-- 🔁 Reusable UI layouts for cross-device consistency  
-
----
-
-## 🛡️ EduLens – AI Proctoring + Plagiarism Detection  
-**Tech:** React, Node, Express, MongoDB, Python (OpenCV, NLP)  
-- 👁️ Real-time proctoring: face detection, gaze tracking, phone alerts  
-- 📚 NLP plagiarism engine using **BERT + TF-IDF** (70% copy reduction)  
-- ⚡ Low-latency frame pipeline with OpenCV  
-
-
----
-
-# 🧠 Experience — Web Developer Intern  
-**CodeBind Technologies (2025)**  
-- 📱 Built responsive + modular UI components  
-- ⚡ Improved frontend performance & consistency  
-- 🧩 Collaborated in Agile teams with Git workflows  
 ---
 
 # 🏆 Achievements
@@ -111,13 +84,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharunCoder28&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-# 🏆 Animated Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TharunCoder28&theme=darkhub&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
