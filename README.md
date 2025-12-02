@@ -42,7 +42,7 @@
 
 ---
 
-# 🧩 Animated Tech Stack
+# 🧩 Tech Stack
 
 <h3 align="center">Frontend & UI</h3>
 <p align="center">
