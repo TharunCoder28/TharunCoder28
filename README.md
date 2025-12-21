@@ -3,7 +3,7 @@
      ============================== -->
 <!-- Working Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Tharun%20R%20⚡🎓&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Tharun%20R%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
