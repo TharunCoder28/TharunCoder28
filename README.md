@@ -31,7 +31,7 @@
 
 # ⚡ About Me
 
-- 🎓 **BE CSE, CGPA: 8.8** — S.K.P Engineering College  
+- 🎓 **BE.,M.Tech (Data Science), CGPA: 8.8** — S.K.P Engineering College  
 - 🔥 **350+ DSA Problems Solved** across arrays, DP, graphs, trees, binary search  
 - 🧠 **AI + MERN Developer** | OpenCV, BERT, LLM Agents  
 - 🥇 **Winner – CYKRYPT’25 National-Level Tech Event** (Paper Presentation)  
