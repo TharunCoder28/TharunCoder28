@@ -70,8 +70,8 @@
 
 - 🥇 **1st Prize – CYKRYPT’25 National Tech Event**  
 - 👑 **President of ACE’25 – 300+ members**  
-- 📝 **70+ technical posts**, 2900+ followers  
+- 📝 **70+ technical posts**, 3400+ followers  
 - 🧩 Top **5% performer** in NxtWave coding challenges  
-- 🎯 **300+ DSA problems** solved  
+- 🎯 **400+ DSA problems** solved  
 ---
 
