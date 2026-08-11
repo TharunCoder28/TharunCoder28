@@ -31,8 +31,8 @@
 
 # ⚡ About Me
 
-- 🎓 **BE.,M.Tech (Data Science), CGPA: 8.8** — S.K.P Engineering College  
-- 🔥 **400+ DSA Problems Solved** across arrays, DP, graphs, trees, binary search  
+- 🎓 **BE.,M.Tech (Data Science), CGPA: 8.87** — S.K.P Engineering College  
+- 🔥 **450+ DSA Problems Solved** across arrays, DP, graphs, trees, binary search  
 - 🧠 **AI + MERN Developer** | OpenCV, BERT, LLM Agents  
 - 🥇 **Winner – CYKRYPT’25 National-Level Tech Event** (Paper Presentation)  
 - 👑 **President – ACE’25**, led **400+ student community** and organized hackathons  
@@ -72,6 +72,6 @@
 - 👑 **President of ACE’25 – 300+ members**  
 - 📝 **70+ technical posts**, 3400+ followers  
 - 🧩 Top **5% performer** in NxtWave coding challenges  
-- 🎯 **400+ DSA problems** solved  
+- 🎯 **450+ DSA problems** solved  
 ---
 
