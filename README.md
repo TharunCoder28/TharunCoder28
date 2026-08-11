@@ -31,7 +31,7 @@
 
 # ⚡ About Me
 
-- 🎓 **BE.,M.Tech (Data Science), CGPA: 8.87** — S.K.P Engineering College  
+- 🎓 **BE.,M.Tech (Data Science), CGPA: 8.87** — SRM Institute of Technology 
 - 🔥 **450+ DSA Problems Solved** across arrays, DP, graphs, trees, binary search  
 - 🧠 **AI + MERN Developer** | OpenCV, BERT, LLM Agents  
 - 🥇 **Winner – CYKRYPT’25 National-Level Tech Event** (Paper Presentation)  
